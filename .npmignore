@@ -1,0 +1,11 @@
+*.dcu
+*.dsk
+*.identcache
+__history/
+*.bdsproj.local
+*.bdsgroup.local
+Thumbs.db
+ModelSupport/
+.DS_Store
+.git*
+npm-debug.log
